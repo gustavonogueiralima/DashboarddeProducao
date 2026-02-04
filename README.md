@@ -55,7 +55,7 @@ apoiar tomadas de decisão baseadas em dados.
 
 🚀 Como Visualizar
 
-Baixe o arquivo Dashboard.pbix.
+Baixe o arquivo Dashboard de Produção.pbix.
 
 Abra no Power BI Desktop (versão atual recomendada).
 
